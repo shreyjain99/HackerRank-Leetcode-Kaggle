@@ -7,6 +7,6 @@
 <hr width="100%" size="2">
 
 <div align="Left">
-<a href="https://leetcode.com/u/shreyjain99/"><img src="https://github.com/shreyjain99/HackerRank-Leetcode-Kaggle/blob/main/src%20files/https___dev-to-uploads.s3.amazonaws.com_uploads_articles_zs70my9q69w2zxtf7lyi.jpg" alt="HTML tutorial" style="width:1100px;height:250px;"></a>
+<a href="https://leetcode.com/u/shreyjain99/"><img src="https://github.com/shreyjain99/HackerRank-Leetcode-Kaggle/blob/main/src%20files/https___dev-to-uploads.s3.amazonaws.com_uploads_articles_zs70my9q69w2zxtf7lyi.jpg" alt="HTML tutorial" style="width:1400px;height:250px;"></a>
 </div>
 
