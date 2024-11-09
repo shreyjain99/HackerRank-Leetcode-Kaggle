@@ -9,7 +9,7 @@
  <hr width="100%" size="2">
 
 <div align="Left">
-<a href="https://github.com/shreyjain99/HackerRank-Leetcode-Kaggle/blob/main/src%20files/hackerrank%20badges.png"><img src="https://github.com/shreyjain99/HackerRank-Leetcode-Kaggle/blob/main/src%20files/hackerrank%20badges.png" alt="HTML tutorial" style="width:450px;height:100px;"></a>
+<a href="https://www.hackerrank.com/profile/shreyjain99"><img src="https://github.com/shreyjain99/HackerRank-Leetcode-Kaggle/blob/main/src%20files/hackerrank%20badges.png" alt="HTML tutorial" style="width:450px;height:100px;"></a>
 </div>
 
 <br>
@@ -17,7 +17,7 @@
 <br>
 
 <div align="Left">
-<a href="https://github.com/shreyjain99/HackerRank-Leetcode-Kaggle/blob/main/src%20files/hackerrank%20badges.png"><img src="https://github.com/shreyjain99/HackerRank-Leetcode-Kaggle/blob/main/src%20files/hackerrank%20badges.png" alt="HTML tutorial" style="width:450px;height:100px;"></a>
+<a href="https://www.kaggle.com/shreyjain99"><img src="https://github.com/shreyjain99/HackerRank-Leetcode-Kaggle/blob/main/src%20files/leetcode%20badges.png" alt="HTML tutorial" style="width:450px;height:100px;"></a>
 </div>
 
 
