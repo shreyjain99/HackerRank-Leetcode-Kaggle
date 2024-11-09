@@ -8,6 +8,13 @@
 <a href="https://github.com/shreyjain99/HackerRank-Leetcode-Kaggle/blob/main/src%20files/hackerrank%20badges.png"><img src="https://github.com/shreyjain99/HackerRank-Leetcode-Kaggle/blob/main/src%20files/hackerrank%20badges.png" alt="HTML tutorial" style="width:450px;height:100px;"></a>
 </div>
 
+<br>
 <hr width="100%" size="2">
+<br>
+
+<div align="Left">
+<a href="https://github.com/shreyjain99/HackerRank-Leetcode-Kaggle/blob/main/src%20files/hackerrank%20badges.png"><img src="https://github.com/shreyjain99/HackerRank-Leetcode-Kaggle/blob/main/src%20files/hackerrank%20badges.png" alt="HTML tutorial" style="width:450px;height:100px;"></a>
+</div>
+
 
 
