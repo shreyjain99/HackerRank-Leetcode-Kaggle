@@ -1,13 +1,13 @@
- <a>
-        <img src='' alt='HackerRank Logo' width='24' height='23'>
+<a>
+        <img src='https://github.com/shreyjain99/shreyjain99/blob/main/hackerrank%20logo.png' alt='HackerRank Logo' width='24' height='23'>
     </a> &nbsp;&nbsp; <a href='https://www.hackerrank.com/profile/shreyjain99' target='_blank' style="font-size: 1.1em;">HackerRank Profile</a> - Explore my coding challenges and accomplishments.<br><br>
     
  <a>
-        <img src='' alt='Kaggle Logo' width='24' height='23'>
+        <img src='https://github.com/shreyjain99/shreyjain99/blob/main/kaggle%20logov2.ico' alt='Kaggle Logo' width='24' height='23'>
     </a> &nbsp;&nbsp; <a href='https://www.kaggle.com/shreyjain99' target='_blank' style="font-size: 1.1em;">Kaggle Profile</a> - Engage with my data science projects and competitions.<br><br>
     
  <a>
-        <img src='' alt='LeetCode Logo' width='24' height='23'>
+        <img src='https://github.com/shreyjain99/shreyjain99/blob/main/LeetCode-logo.png' alt='LeetCode Logo' width='24' height='23'>
     </a> &nbsp;&nbsp; <a href='https://leetcode.com/u/shreyjain99/' target='_blank' style="font-size: 1.1em;">LeetCode Profile</a> - View my problem-solving skills in algorithm challenges.<br><br>
     
  <a>
