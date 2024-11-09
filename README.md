@@ -17,7 +17,7 @@
 <br>
 
 <div align="Left">
-<a href="https://www.kaggle.com/shreyjain99"><img src="https://github.com/shreyjain99/HackerRank-Leetcode-Kaggle/blob/main/src%20files/leetcode%20badges.png" alt="HTML tutorial" style="width:550px;height:105px;"></a>
+<a href="https://www.kaggle.com/shreyjain99"><img src="https://github.com/shreyjain99/HackerRank-Leetcode-Kaggle/blob/main/src%20files/leetcode%20badges.png" alt="HTML tutorial" style="width:450px;height:120px;"></a>
 </div>
 
 
