@@ -5,7 +5,7 @@
  
 
 <div align="Left">
-<a href="https://github.com/shreyjain99/HackerRank-Leetcode-Kaggle/blob/main/src%20files/hackerrank%20badges.png"><img src="https://github.com/shreyjain99/HackerRank-Leetcode/blob/main/src%20files/Screenshot%202024-09-08%20023034.png" alt="HTML tutorial" style="width:800px;height:100px;"></a>
+<a href="https://github.com/shreyjain99/HackerRank-Leetcode-Kaggle/blob/main/src%20files/hackerrank%20badges.png"><img src="https://github.com/shreyjain99/HackerRank-Leetcode-Kaggle/blob/main/src%20files/hackerrank%20badges.png" alt="HTML tutorial" style="width:800px;height:100px;"></a>
 </div>
 
 <hr width="100%" size="2">
